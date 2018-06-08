@@ -4,7 +4,9 @@ Horray is an experimental micro-library that lets you treat objects as if they w
 Note that Horray! extends `Object`, which considers a bad practice, and therefore it is experimental and not recommanded to use in production.
 
 ### Install
-`npm i hooray`
+```
+npm i hooray
+```
 
 ### Examples
 
