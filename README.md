@@ -11,6 +11,7 @@ npm i hooray
 ### Examples
 
 After importing Horray!, you can use the following methods on objects: 
+
 `map()`, `reduce()`, `reduceRight()`, `every()`, `some()`, `find()`, `filter()`, `forEach()`.
 
 ```js
