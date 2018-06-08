@@ -3,12 +3,17 @@
 Horray is an experimental micro-library that lets you treat objects as if they were arrays.
 Note that Horray! extends `Object`, which considers a bad practice, and therefore it is experimental and not recommanded to use in production.
 
+### Install
+`npm i hooray`
+
 ### Examples
 
 After importing Horray!, you can use the following methods on objects: 
 `map()`, `reduce()`, `reduceRight()`, `every()`, `some()`, `find()`, `filter()`, `forEach()`.
 
 ```js
+import 'hooray'
+
 const person = { firstName: 'James', lastName: 'Jones', age: 15 }
 
 person.map(([key, value]) => `${key}=${value}`) // [ 'firstName=James', 'lastName=Jones', 'age=15' ]
