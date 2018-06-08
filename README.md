@@ -8,7 +8,7 @@ Note that Horray! extends `Object`, which considers a bad practice, and therefor
 After importing Horray!, you can use the following methods on objects: 
 `map()`, `reduce()`, `reduceRight()`, `every()`, `some()`, `find()`, `filter()`, `forEach()`.
 
-```
+```js
 const person = { firstName: 'James', lastName: 'Jones', age: 15 }
 
 person.map(([key, value]) => `${key}=${value}`) // [ 'firstName=James', 'lastName=Jones', 'age=15' ]
