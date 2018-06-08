@@ -1,0 +1,22 @@
+{
+  "name": "hooray",
+  "author": "Eliran Pe'er <eliran013@gmail.com> (https://github.com/bluzi",
+  "description": "Treat objects as if they were arrays",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "eslint . && ava",
+    "deploy": "np"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "1.0.0-beta.5.1",
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "np": "^3.0.4"
+  }
+}
