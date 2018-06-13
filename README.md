@@ -1,9 +1,8 @@
 ## Hooray!
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <img src="https://image.ibb.co/ceX27y/favicon_256_1.png" />
 </div>
-
 
 
 Horray! is an experimental micro-library that lets you treat objects as if they were arrays.
