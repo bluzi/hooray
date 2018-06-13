@@ -1,7 +1,7 @@
 ## Hooray!
 
-Horray is an experimental micro-library that lets you treat objects as if they were arrays.
-Note that Horray! extends `Object`, which considers a bad practice, and therefore it is experimental and not recommanded to use in production.
+Horray! is an experimental micro-library that lets you treat objects as if they were arrays.
+Note that Horray! extends `Object`, which considers a bad practice, and therefore it is experimental and not recommended to be used in production.
 
 ### Install
 ```
